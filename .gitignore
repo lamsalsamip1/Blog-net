@@ -96,3 +96,4 @@ logs/
 
 
 .vs/
+.node_modules/
