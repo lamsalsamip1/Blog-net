@@ -1,4 +1,6 @@
-This is a blog website developed using .Net Core and React JS. REST API is used for authentication and posts, with SQL Server as database.
+This is a blog website developed using .Net Core and React JS. 
+
+REST API is used for authentication and posts, with SQL Server as database.
 
 Homepage:
 
